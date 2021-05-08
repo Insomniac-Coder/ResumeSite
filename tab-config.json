@@ -1,0 +1,17 @@
+{
+    "Intro" : {
+        "Heading" : "Hello!",
+        "Content" : "Thanks for checking out my website, I am Ishtdeep, currently work as Senior Platform developer for Standard Chartered, I am an ex-Samsung R&D employee and I love to build things, most of my work has been in Cloud/ DevOps field but I also love to play around with Graphics APIs like OpenGL and game engines, to know more about my skill set and work experience, please check out the tabs above. Feel free to drop me a message on this website using \"Send a Message\" feature or just hit me up on LinkedIn.\n\nPS: I am not really into web development I can just do some basic stuff ",
+        "ActiveState" : true
+    },
+    "Work Experience" : {
+        "Heading" : "Work Experience",
+        "Content" : "<b>SENIOR PLATFORM DEVELOPER<b>\n\nSTANDARD CHARTERED | AUG 2020 - PRESENT\n<ul><li>Worked on deployment and maintenance of tools like Artifactory and Xray</li><li>Have written scripts in ansible and terraform for server orchestration / configuration and infra deployment</li><li>Played a role in performance testing of Artifactory, infra was able to handle upto 200 Concurrent users with ramp up time of 60 seconds</li></ul>\n\n<b>CLOUD ENGINEER, INFRA TEAM<b>\n\nSAMSUNG R&D INSTITUTE | OCT 2018 - AUG 2020\n<ul><li>Worked on internal server related issues predominantly dealing with AWS services like EC2, S3, RDS, Lambda, VPC,Route53, CloudFront, API Gateway related setup and troubleshooting.</li><li>Worked on internal Infra portal which facilitates assignment of non-overlapping CIDR.</li><li>Worked to identify vulnerable CIDR across organisation, removal and notification of that vulnerability to users.Removal of unattached EIPs across the organisation, hence reducing expenditure</li><li>Automation script to prevent restricted instance types from running across the organisation which saved 15k USD</li></ul>\n\nINTERNSHIPS AND TRAININGS\n<ul><li>Samsung R&D | Intern | JUL 2018 - AUG 2018</li><li>Tech Mahindra | AWS intern | JUN 2017 - JUL 2017</li><li>Delhi Metro Rail Corporation | Trainee | JUL 2016 - AUG 2016</li><li>IBM | Trainee | JUN 2016 - JUL 2016</li></ul>",
+        "ActiveState" : false
+    },
+    "Skills" : {
+        "Heading" : "Skills",
+        "Content" : "<ul><li>AWS / AWS SDK</li><li>Go lang</li><li>Python</li><li>C++</li><li>Bash</li><li>HTML / CSS(Basic)</li><li>PHP</li></ul>",
+        "ActiveState" : false
+    }
+}
